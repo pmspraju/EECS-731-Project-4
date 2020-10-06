@@ -10,7 +10,7 @@ EECS 731 Homework 4
 6. Document your process and results
 7. Commit your notebook, source code, visualizations and other supporting files to the git repository in GitHub
 
-##Steps Followed
+Steps Followed
 1. Load the data using Pandas
 2. Drop the irrelevant features and compute extra features that would add value to domain
 3. Compute the missing values and if necessary use imputation
