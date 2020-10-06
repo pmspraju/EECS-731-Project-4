@@ -18,3 +18,7 @@ Steps Followed
 5. Visualize the data to understand.
 6. Split the data and implement regression models
 7. Conclusion.
+
+References
+1. https://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+2. https://github.com/fivethirtyeight/nfl-elo-game
